@@ -1,0 +1,1 @@
+{"id": "c0a161fd-4e17-4ab9-b859-e242e2f9689d", "kind": "claim", "agentID": "codex-status-history", "agentName": "Codex", "targetAgentID": null, "text": "实现状态历史切片接口与页面时间条", "files": ["Sources/LlmPlugin/Resources/stats_proxy.py", "Sources/LlmPlugin/Resources/status.html", "Tests/GatewayTests/test_gateway_integration.py"], "createdAt": "2026-10-16T19:54:46Z", "agentType": "codex"}

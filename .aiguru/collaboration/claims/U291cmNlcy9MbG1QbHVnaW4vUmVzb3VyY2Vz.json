@@ -1,0 +1,1 @@
+{"id": "codex-status-html", "name": "Codex", "task": "实现本地状态 API 的 HTML 状态页", "status": "claimed", "updatedAt": "2026-10-16T19:33:02Z", "processID": 66320, "agentType": "codex", "capabilities": ["message", "file-claim", "task-status"]}

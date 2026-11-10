@@ -1,0 +1,1 @@
+{"id": "8e385e76-64e9-4f45-bcfb-c263af01904d", "kind": "message", "agentID": "codex-template-fuse-fix", "agentName": "Codex Template Fuse Fix", "targetAgentID": null, "text": "确认误判：正常 Ollama 日志含 init: chat template，被宽泛匹配为永久故障。已改为仅识别 failed render/parse、unsupported、invalid 等明确失败；新增正常/异常日志测试，Swift 45 项通过。", "files": [], "createdAt": "2026-09-12T12:44:35Z", "agentType": "codex"}

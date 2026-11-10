@@ -1,0 +1,1 @@
+{"id": "1f4de5d5-bef6-4e78-b4cb-cf338f95ef0c", "kind": "release", "agentID": "codex-tool-args-type", "agentName": "Codex Tool Args Type", "targetAgentID": null, "text": "released", "files": ["Sources/LlmPlugin/Resources/stats_proxy.py"], "createdAt": "2026-09-12T13:29:21Z", "agentType": "codex"}

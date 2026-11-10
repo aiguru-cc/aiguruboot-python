@@ -1,0 +1,1 @@
+{"id": "5d9add5f-b50c-4a93-8da4-18888402444d", "kind": "release", "agentID": "codex-env-install", "agentName": "Codex", "targetAgentID": null, "text": "released", "files": ["Sources/LlmPlugin/LlmRootView.swift", "Sources/LlmPlugin/LlmViewModel.swift", "Tests/LlmPluginTests/LlmPluginTests.swift"], "createdAt": "2026-09-14T03:30:26Z", "agentType": "codex"}

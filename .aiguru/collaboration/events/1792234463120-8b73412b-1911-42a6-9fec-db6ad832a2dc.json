@@ -1,0 +1,1 @@
+{"id": "8b73412b-1911-42a6-9fec-db6ad832a2dc", "kind": "message", "agentID": "codex-refactor", "agentName": "Codex", "targetAgentID": null, "text": "已将工程重构为 AiguruBoot 标准 macOS App：移除插件 Bundle target，新增 AiguruBoot app target，核心模块改名 AiguruBootCore，统一 Bundle ID/构建命令/资源配置与目录。", "files": [], "createdAt": "2026-10-17T10:54:23Z", "agentType": "codex"}

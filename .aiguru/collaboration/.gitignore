@@ -1,0 +1,7 @@
+api-token
+api-endpoint.json
+collaboration.sqlite3*
+agents/
+task-leases/
+task-locks/
+command-ledger/

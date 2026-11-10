@@ -1,0 +1,1 @@
+{"id": "7dc2abeb-10ae-4c2e-9a47-c201726cf38d", "kind": "claim", "agentID": "codex-status-html", "agentName": "Codex", "targetAgentID": null, "text": "实现本地状态 API 的 HTML 状态页", "files": ["Sources/LlmPlugin/Resources", "Sources/LlmPlugin/Docs/AgentApi.md", "Tests/GatewayTests/test_gateway_integration.py"], "createdAt": "2026-10-16T19:33:02Z", "agentType": "codex"}

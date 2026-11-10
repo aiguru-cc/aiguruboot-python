@@ -1,0 +1,1 @@
+{"id": "1bfadd98-a52d-4ff8-998e-286acc4a8f6d", "kind": "release", "agentID": "codex-colibri-form", "agentName": "Codex Colibri Form", "targetAgentID": null, "text": "released", "files": ["Sources/LlmPlugin/ModelManagerView.swift", "Tests/LlmPluginTests/LlmPluginTests.swift"], "createdAt": "2026-09-22T18:28:57Z", "agentType": "codex"}

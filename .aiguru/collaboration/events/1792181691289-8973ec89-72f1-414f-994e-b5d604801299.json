@@ -1,0 +1,1 @@
+{"id": "8973ec89-72f1-414f-994e-b5d604801299", "kind": "message", "agentID": "codex-layout-fix", "agentName": "Codex", "targetAgentID": null, "text": "定位到具体撑开源：backendCard 的引擎 segmented Picker（llama.cpp/Ollama/MLX/Colibrì）按最长文本计算理想宽度。已固定为侧栏可用宽度 244pt；Swift 61项测试通过。", "files": [], "createdAt": "2026-10-16T20:14:51Z", "agentType": "codex"}

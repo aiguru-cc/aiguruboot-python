@@ -1,0 +1,1 @@
+{"id": "535b0d41-beab-4b90-aa41-ff054807221a", "kind": "release", "agentID": "codex-final-ui", "agentName": "Codex", "targetAgentID": null, "text": "released", "files": ["Sources/LlmPlugin/Resources/status.html", "Sources/LlmPlugin/Resources/stats_proxy.py", "Tests/GatewayTests/test_gateway_integration.py"], "createdAt": "2026-10-16T20:59:29Z", "agentType": "codex"}

@@ -1,0 +1,32 @@
+.env
+.git/
+.vscode/
+.codex/
+.aiguru/
+.DS_Store
+.swiftpm/xcode/
+*.xcuserstate
+xcuserdata/
+
+# Local build products and indexes
+.build/
+build/
+DerivedData/
+**/DerivedSources/
+
+# Compiler caches generated inside the generated Xcode project
+Aiguru.xcodeproj/-Xcc/
+
+# Compiler intermediates produced by local Swift/Xcode probes
+*.o
+*.d
+*.dia
+*.swiftdeps
+
+# Python helper caches
+__pycache__/
+*.pyc
+
+# Local agent workspace notes (not part of the product)
+.workbuddy/
+

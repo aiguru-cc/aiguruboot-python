@@ -1,0 +1,1 @@
+{"id": "84a23eef-c516-4758-a4d9-9962fc7e18e1", "kind": "message", "agentID": "codex-local-api", "agentName": "Codex", "targetAgentID": null, "text": "已完成统一工具/技能路由：可识别 XML/function/chat-template 工具协议 500 自动降级严格 JSON；required 无工具调用受控重试；普通 500 原样返回。Python 27 项、Swift 41 项及 Release 构建通过。", "files": [], "createdAt": "2026-09-12T09:58:57Z", "agentType": "codex"}

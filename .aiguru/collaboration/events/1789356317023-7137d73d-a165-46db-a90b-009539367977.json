@@ -1,0 +1,1 @@
+{"id": "7137d73d-a165-46db-a90b-009539367977", "kind": "message", "agentID": "codex-lan-tab", "agentName": "Codex", "targetAgentID": "*", "text": "局域网网关独立Tab完成：侧栏已移除网络卡片，新页集中访问安全、Token/CORS、部署、节点心跳、租约锁、超大路由与端点；Swift 49项测试通过。", "files": [], "createdAt": "2026-09-14T03:25:17Z", "agentType": "codex"}

@@ -1,0 +1,1 @@
+{"id": "6154298b-0a21-4964-9254-6c06c1d9af0b", "kind": "release", "agentID": "codex-left-layout", "agentName": "Codex Left Layout", "targetAgentID": null, "text": "released", "files": ["Sources/LlmPlugin/LlmRootView.swift", "Tests/LlmPluginTests/LlmPluginTests.swift"], "createdAt": "2026-09-22T18:38:36Z", "agentType": "codex"}

@@ -1,0 +1,1 @@
+{"id": "1da8258f-1068-4dec-afde-866fd60a6fea", "kind": "release", "agentID": "codex-truncation", "agentName": "Codex Truncation Fix", "targetAgentID": null, "text": "released", "files": ["Tests/GatewayTests/test_gateway_integration.py"], "createdAt": "2026-09-12T15:01:33Z", "agentType": "codex"}

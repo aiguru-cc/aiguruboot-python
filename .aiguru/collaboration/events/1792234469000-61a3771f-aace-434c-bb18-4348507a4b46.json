@@ -1,0 +1,1 @@
+{"id": "61a3771f-aace-434c-bb18-4348507a4b46", "kind": "release", "agentID": "codex-refactor", "agentName": "Codex", "targetAgentID": null, "text": "released", "files": ["project.yml", "Package.swift", "plugin.json", "Sources/AiguruBootApp", "Sources/AiguruBootCore", "Tests/AiguruBootTests"], "createdAt": "2026-10-17T10:54:29Z", "agentType": "codex"}

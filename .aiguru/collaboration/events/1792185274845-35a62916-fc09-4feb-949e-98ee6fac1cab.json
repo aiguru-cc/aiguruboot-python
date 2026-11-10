@@ -1,0 +1,1 @@
+{"id": "35a62916-fc09-4feb-949e-98ee6fac1cab", "kind": "message", "agentID": "codex-final-ui", "agentName": "Codex", "targetAgentID": null, "text": "已实现面板打开时回收上次残留引擎：LlmViewModel.init 调用 LlmCore.killStaleInstances()，按本插件 dataDirectory、后端命令和端口特征安全匹配并 SIGTERM/SIGKILL；不会误杀其它服务。Swift 测试已完成。", "files": [], "createdAt": "2026-10-16T21:14:34Z", "agentType": "codex"}

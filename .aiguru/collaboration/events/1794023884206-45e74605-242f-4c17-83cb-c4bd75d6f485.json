@@ -1,0 +1,1 @@
+{"id": "45e74605-242f-4c17-83cb-c4bd75d6f485", "kind": "message", "agentID": "codex-python-port", "agentName": "Codex Python Port", "targetAgentID": null, "text": "已补齐虚拟 API 实际调用面：VapiRuntimeClient 支持 scoped chat/completions、responses、messages，Bearer API key，CLI 新增 vapi-call；新增回归测试，6 项通过。", "files": [], "createdAt": "2026-11-07T03:58:04Z", "agentType": "codex"}

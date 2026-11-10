@@ -1,0 +1,1 @@
+{"id": "a8adeadd-0f60-498d-9d41-fba1c742303e", "kind": "claim", "agentID": "codex-secure-install-lead", "agentName": "Codex", "targetAgentID": null, "text": "拆分控制面凭据并集成启动参数", "files": ["Sources/LlmPlugin/LlmBackend.swift", "Sources/LlmPlugin/LlmCore.swift", "Sources/LlmPlugin/Docs/NetworkDeployment.md"], "createdAt": "2026-09-14T04:01:20Z", "agentType": "codex"}

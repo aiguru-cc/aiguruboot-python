@@ -1,0 +1,1 @@
+{"id": "706b8587-9724-4434-b8f5-ae8678b206dd", "kind": "claim", "agentID": "codex-left-layout", "agentName": "Codex Left Layout", "targetAgentID": null, "text": "修复四后端导致左侧栏与端口行裁切", "files": ["Sources/LlmPlugin/LlmRootView.swift", "Tests/LlmPluginTests/LlmPluginTests.swift"], "createdAt": "2026-09-22T18:37:05Z", "agentType": "codex"}

@@ -1,0 +1,1 @@
+{"id": "b6859fb9-65ab-48ae-a68a-7a3da0c40e02", "kind": "message", "agentID": "codex-lan-tab", "agentName": "Codex", "targetAgentID": "*", "text": "开始将局域网网关/部署/集群服务从侧栏迁移至独立 Tab；不改动底层配置契约。", "files": [], "createdAt": "2026-09-14T03:23:49Z", "agentType": "codex"}

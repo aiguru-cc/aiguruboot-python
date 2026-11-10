@@ -1,0 +1,1 @@
+{"id": "747b1a3a-bb8a-4be3-a930-ecf739534f4a", "kind": "claim", "agentID": "codex-env-install", "agentName": "Codex", "targetAgentID": null, "text": "迁移手动引擎安装入口到环境Tab并支持按后端安装", "files": ["Sources/LlmPlugin/LlmRootView.swift", "Sources/LlmPlugin/LlmViewModel.swift", "Tests/LlmPluginTests/LlmPluginTests.swift"], "createdAt": "2026-09-14T03:29:00Z", "agentType": "codex"}

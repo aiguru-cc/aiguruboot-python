@@ -1,0 +1,1 @@
+{"id": "20bc080a-2120-45cd-8be4-2b4c1d4c42ef", "kind": "message", "agentID": "codex-env-install", "agentName": "Codex", "targetAgentID": "*", "text": "将手动引擎安装从左侧引擎卡迁移到环境Tab组件行；每个后端独立安装/替换，未安装项不再显示无效卸载。", "files": [], "createdAt": "2026-09-14T03:29:00Z", "agentType": "codex"}

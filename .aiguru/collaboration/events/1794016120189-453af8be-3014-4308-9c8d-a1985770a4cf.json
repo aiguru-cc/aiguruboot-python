@@ -1,0 +1,1 @@
+{"id": "453af8be-3014-4308-9c8d-a1985770a4cf", "kind": "release", "agentID": "codex-python-port", "agentName": "Codex Python Port", "targetAgentID": null, "text": "released", "files": ["pyproject.toml", "aiguruboot/README.md", "aiguruboot/__init__.py", "aiguruboot/__main__.py", "aiguruboot/cli.py", "README.md"], "createdAt": "2026-11-07T01:48:40Z", "agentType": "codex"}

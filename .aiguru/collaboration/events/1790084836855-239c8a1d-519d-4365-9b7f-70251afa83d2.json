@@ -1,0 +1,1 @@
+{"id": "239c8a1d-519d-4365-9b7f-70251afa83d2", "kind": "release", "agentID": "codex-colibri-lifecycle", "agentName": "codex-colibri-lifecycle", "targetAgentID": null, "text": "released", "files": ["Sources/LlmPlugin/LlmBackend.swift", "Sources/LlmPlugin/LlmCore.swift", "Tests/LlmPluginTests/LlmPluginTests.swift"], "createdAt": "2026-09-22T13:47:16Z", "agentType": "codex"}

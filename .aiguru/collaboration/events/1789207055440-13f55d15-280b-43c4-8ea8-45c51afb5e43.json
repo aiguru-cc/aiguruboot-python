@@ -1,0 +1,1 @@
+{"id": "13f55d15-280b-43c4-8ea8-45c51afb5e43", "kind": "claim", "agentID": "codex-local-api", "agentName": "Codex", "targetAgentID": null, "text": "记录统一工具兼容路由契约", "files": ["Sources/LlmPlugin/Docs/AgentApi.md", "Sources/LlmPlugin/Docs/TechnicalImplementation.md"], "createdAt": "2026-09-12T09:57:35Z", "agentType": "codex"}

@@ -1,0 +1,1 @@
+{"id": "25c8cc95-0ee2-40fc-96c4-9e2ebb3d6934", "kind": "release", "agentID": "codex-template-fuse-fix", "agentName": "Codex Template Fuse Fix", "targetAgentID": null, "text": "released", "files": ["Sources/LlmPlugin/LlmCore.swift", "Tests/LlmPluginTests/LlmPluginTests.swift"], "createdAt": "2026-09-12T12:44:35Z", "agentType": "codex"}

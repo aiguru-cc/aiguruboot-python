@@ -1,0 +1,16 @@
+CAPABILITIES = {
+ 'web': {'command':'aiguruboot web --port 8080','description':'启动 Web 管理面'},
+ 'vapi': {'command':'aiguruboot vapi list','description':'管理虚拟 API 的创建、轮换、启停、用量和连接契约'},
+ 'vapi-call': {'command':'aiguruboot vapi-call chat/completions --id ID --api-key KEY --json JSON','description':'通过虚拟 API 调用模型'},
+ 'engine': {'command':'aiguruboot engine status NAME','description':'查询、启动和停止引擎'},
+ 'vllm': {'command':'aiguruboot vllm start MODEL --port 8000','description':'启动 vLLM OpenAI 兼容服务'},
+ 'models': {'command':'aiguruboot models','description':'查看模型目录'},
+ 'discover': {'command':'aiguruboot discover','description':'检查 AIGURUBOOT_NODES 集群节点'},
+ 'hardware': {'command':'aiguruboot hardware','description':'检测 CPU、内存、架构和 GPU'},
+ 'preflight': {'command':'aiguruboot preflight','description':'检查 Linux 部署环境'},
+ 'family': {'command':'aiguruboot family status','description':'查看或设置模型家族授权'},
+ 'finetune': {'command':'aiguruboot finetune','description':'生成并校验 LoRA 微调配置'},
+ 'config': {'command':'aiguruboot config show','description':'读取或更新持久化配置'},
+ 'credentials': {'command':'aiguruboot credentials list','description':'管理本地 Agent 凭据'},
+ 'logs': {'command':'aiguruboot logs show','description':'查看操作日志'},
+}

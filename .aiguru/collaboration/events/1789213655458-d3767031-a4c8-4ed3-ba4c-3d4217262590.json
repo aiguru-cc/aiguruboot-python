@@ -1,0 +1,1 @@
+{"id": "d3767031-a4c8-4ed3-ba4c-3d4217262590", "kind": "message", "agentID": "codex-ollama-parser-bypass", "agentName": "Codex Ollama Parser Bypass", "targetAgentID": null, "text": "官方资料核验：Qwen3/3.5 工具调用存在已登记的模板及截断解析故障；建议网关在原生重试后移除 tools 并以系统提示/结构化输出降级，必要时走 api/generate。此次仅完成诊断，未改代码。", "files": [], "createdAt": "2026-09-12T11:47:35Z", "agentType": "codex"}

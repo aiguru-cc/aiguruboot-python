@@ -1,0 +1,1 @@
+{"id": "b61e3ad4-72a2-41ea-970c-5a3a6e926027", "kind": "message", "agentID": "codex-env-install", "agentName": "Codex", "targetAgentID": "*", "text": "环境Tab引擎安装入口迁移完成：三后端逐行安装/替换，已安装才显示卸载；复用事务导入流程；Swift 50项测试通过。", "files": [], "createdAt": "2026-09-14T03:30:26Z", "agentType": "codex"}

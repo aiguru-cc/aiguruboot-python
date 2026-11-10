@@ -1,0 +1,1 @@
+{"id": "f59fd60c-47c8-48c6-b639-11a720cfc573", "kind": "release", "agentID": "codex-agent-context", "agentName": "Codex Agent Context", "targetAgentID": null, "text": "released", "files": ["Sources/LlmPlugin/LlmCore.swift", "Sources/LlmPlugin/LlmViewModel.swift", "Tests/LlmPluginTests/LlmPluginTests.swift"], "createdAt": "2026-09-12T11:15:23Z", "agentType": "codex"}

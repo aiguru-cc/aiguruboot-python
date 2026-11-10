@@ -1,0 +1,1 @@
+{"id": "6775ed4e-e77c-4adc-8093-47d1968f6db7", "kind": "claim", "agentID": "codex-colibri-catalog", "agentName": "Codex", "targetAgentID": null, "text": "Colibri UI/manual import exhaustive switch integration", "files": ["Sources/LlmPlugin/DownloadCenter.swift", "Sources/LlmPlugin/LlmViewModel.swift"], "createdAt": "2026-09-22T13:41:23Z", "agentType": "codex"}

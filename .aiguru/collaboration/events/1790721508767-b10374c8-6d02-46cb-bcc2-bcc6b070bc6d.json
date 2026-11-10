@@ -1,0 +1,1 @@
+{"id": "b10374c8-6d02-46cb-bcc2-bcc6b070bc6d", "kind": "message", "agentID": "codex-family-lock", "agentName": "Codex", "targetAgentID": null, "text": "签名授权单家族配置已完成：本机0600密钥+HMAC-SHA256绑定版本/家族/时间/nonce；有效授权限制新增/改换家族，已有其他家族可继续使用；缺失/明确解除恢复多家族；签名无效时失败关闭禁止新增。Swift串行61项、定向2项、LlmPlugin/LlmBundle Debug构建通过。", "files": [], "createdAt": "2026-09-29T22:38:28Z", "agentType": "codex"}

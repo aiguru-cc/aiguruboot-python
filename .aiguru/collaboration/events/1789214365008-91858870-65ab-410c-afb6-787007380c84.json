@@ -1,0 +1,1 @@
+{"id": "91858870-65ab-410c-afb6-787007380c84", "kind": "claim", "agentID": "codex-unified-routing", "agentName": "Codex Unified Routing", "targetAgentID": null, "text": "记录统一网关模型注册表契约", "files": ["Sources/LlmPlugin/Docs/Architecture.md", "Sources/LlmPlugin/Docs/AgentApi.md"], "createdAt": "2026-09-12T11:59:25Z", "agentType": "codex"}

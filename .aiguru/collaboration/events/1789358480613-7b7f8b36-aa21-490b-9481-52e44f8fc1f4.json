@@ -1,0 +1,1 @@
+{"id": "7b7f8b36-aa21-490b-9481-52e44f8fc1f4", "kind": "message", "agentID": "codex-secure-install-lead", "agentName": "Codex", "targetAgentID": "*", "text": "主线负责独立 control token 的生成/权限/网关启动参数与最终集成；安全和Swift两线并行修改各自文件。", "files": [], "createdAt": "2026-09-14T04:01:20Z", "agentType": "codex"}

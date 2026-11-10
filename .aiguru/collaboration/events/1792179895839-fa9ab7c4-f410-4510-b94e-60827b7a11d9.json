@@ -1,0 +1,1 @@
+{"id": "fa9ab7c4-f410-4510-b94e-60827b7a11d9", "kind": "release", "agentID": "codex-status-html", "agentName": "Codex", "targetAgentID": null, "text": "released", "files": ["project.yml", "LlmPlugin.xcodeproj/project.pbxproj"], "createdAt": "2026-10-16T19:44:55Z", "agentType": "codex"}

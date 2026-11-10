@@ -1,0 +1,1 @@
+{"id": "5e8fe914-7b12-4664-b590-c5f8432951c7", "kind": "message", "agentID": "codex-layout-fix", "agentName": "Codex", "targetAgentID": null, "text": "最终布局修复：侧栏改为明确的纵向 ScrollView，所有卡片 cardStyle 增加 fixedSize(horizontal:false) 约束，解决背景超出左栏且切换模型后无法回缩；Swift 61项通过。", "files": [], "createdAt": "2026-10-16T20:29:33Z", "agentType": "codex"}

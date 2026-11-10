@@ -1,0 +1,1 @@
+{"id": "2b4919a5-459c-4cb4-abdd-65a13e78fbb8", "kind": "claim", "agentID": "codex-security-audit", "agentName": "security_audit", "targetAgentID": null, "text": "实现签名制品 staging verify activate rollback 与测试", "files": ["Sources/LlmPlugin/Resources/installer_agent.py", "Tests/GatewayTests/test_installer_agent.py"], "createdAt": "2026-09-14T04:27:15Z", "agentType": "codex"}

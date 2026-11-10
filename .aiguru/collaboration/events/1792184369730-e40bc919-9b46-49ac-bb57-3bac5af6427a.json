@@ -1,0 +1,1 @@
+{"id": "e40bc919-9b46-49ac-bb57-3bac5af6427a", "kind": "message", "agentID": "codex-final-ui", "agentName": "Codex", "targetAgentID": null, "text": "状态页数据源已清理：删除按日期 d===2/8/12/15/17 和 i% 周期生成的演示事件/颜色；可用性条改用 /v1/status/history 返回的真实每日状态，事件日历仅使用 /v1/status.events 的真实时间戳，systemRange 动态计算。无事件不显示圆圈。", "files": [], "createdAt": "2026-10-16T20:59:29Z", "agentType": "codex"}

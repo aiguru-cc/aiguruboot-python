@@ -1,0 +1,1 @@
+{"id": "19d45022-fb2a-493e-977d-d4d6969253f0", "kind": "release", "agentID": "codex-tool-args-type", "agentName": "Codex Tool Args Type", "targetAgentID": null, "text": "released", "files": ["Tests/GatewayTests/test_gateway_integration.py"], "createdAt": "2026-09-12T13:29:21Z", "agentType": "codex"}

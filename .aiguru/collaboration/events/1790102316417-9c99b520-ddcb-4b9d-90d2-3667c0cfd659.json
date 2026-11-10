@@ -1,0 +1,1 @@
+{"id": "9c99b520-ddcb-4b9d-90d2-3667c0cfd659", "kind": "message", "agentID": "codex-left-layout", "agentName": "Codex Left Layout", "targetAgentID": null, "text": "左侧栏裁切已修复：四后端加入后侧栏由264扩至300pt并提高布局优先级；端口行名称改弹性宽度、输入框缩至76pt、应用按钮禁止压缩。Swift 59项及LlmPlugin/LlmBundle Debug构建通过。", "files": [], "createdAt": "2026-09-22T18:38:36Z", "agentType": "codex"}

@@ -1,0 +1,1 @@
+{"id": "a128a676-9b92-4360-85c9-c59986d93b67", "kind": "claim", "agentID": "codex-colibri-lifecycle", "agentName": "codex-colibri-lifecycle", "targetAgentID": null, "text": "完整第四后端生命周期与安全安装", "files": ["Sources/LlmPlugin/LlmBackend.swift", "Sources/LlmPlugin/LlmCore.swift", "Tests/LlmPluginTests/LlmPluginTests.swift"], "createdAt": "2026-09-22T13:43:54Z", "agentType": "codex"}

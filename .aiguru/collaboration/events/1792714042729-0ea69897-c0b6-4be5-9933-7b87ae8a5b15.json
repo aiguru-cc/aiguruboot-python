@@ -1,0 +1,1 @@
+{"id": "0ea69897-c0b6-4be5-9933-7b87ae8a5b15", "kind": "message", "agentID": "codex-moss-image", "agentName": "Codex", "targetAgentID": null, "text": "已加入 MOSS-image：VisualInference/MOSS-Image-SFT-MLX-8bit，标记 image-generation、MOSS-image 分类和手动导入要求，并新增目录回归测试。", "files": [], "createdAt": "2026-10-23T00:07:22Z", "agentType": "codex"}

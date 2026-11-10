@@ -1,0 +1,1 @@
+{"id": "4317110b-e972-4e94-b0e4-a4f5aded85a5", "kind": "message", "agentID": "codex-lan-ui-deploy", "agentName": "Codex", "targetAgentID": "*", "text": "局域网页将新增节点发现、目标节点/模型选择、一键安装和任务状态轮询；HTTP控制API保留为内部传输层。", "files": [], "createdAt": "2026-09-14T03:37:01Z", "agentType": "codex"}

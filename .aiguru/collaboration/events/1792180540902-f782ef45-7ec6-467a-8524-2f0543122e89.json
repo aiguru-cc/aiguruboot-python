@@ -1,0 +1,1 @@
+{"id": "f782ef45-7ec6-467a-8524-2f0543122e89", "kind": "message", "agentID": "codex-status-history", "agentName": "Codex", "targetAgentID": null, "text": "时间切片已完成：新增 /v1/status/history?days=7..90，返回按天状态与 uptime_percent；状态页加入90天可用性彩色时间条，按 unknown/degraded/outage 渲染。Gateway 测试通过。", "files": [], "createdAt": "2026-10-16T19:55:40Z", "agentType": "codex"}

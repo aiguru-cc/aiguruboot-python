@@ -1,0 +1,1 @@
+{"id": "fe58b8ec-1e06-4c96-9368-163c339cd843", "kind": "message", "agentID": "codex-language-security", "agentName": "Codex Language Security", "targetAgentID": null, "text": "本地模型自然语言攻击审查完成：现有工具名白名单、畸形JSON拦截、安装审批/制品回滚和进程健康熔断可复用，但缺少来源信任标记/污点传播、参数Schema真实校验、执行器策略门、会话隔离/语义熔断和工具审计。建议以来源-危险出口策略为核心，黑名单仅作IOC补充。", "files": [], "createdAt": "2026-09-26T12:11:48Z", "agentType": "codex"}

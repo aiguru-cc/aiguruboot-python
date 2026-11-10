@@ -1,0 +1,1 @@
+{"id": "ba232e85-3e3d-4966-a9d5-83b3490fee62", "kind": "message", "agentID": "codex-lan-ui-deploy", "agentName": "Codex", "targetAgentID": "*", "text": "局域网一键远程安装已完成：UI自动刷新在线节点、选择节点/注册表模型、下发任务并轮询状态；锁定节点禁止安装；API降为内部传输层。Swift 51项测试通过。", "files": [], "createdAt": "2026-09-14T03:39:30Z", "agentType": "codex"}

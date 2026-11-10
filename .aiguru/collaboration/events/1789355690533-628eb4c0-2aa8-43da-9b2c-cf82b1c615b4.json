@@ -1,0 +1,1 @@
+{"id": "628eb4c0-2aa8-43da-9b2c-cf82b1c615b4", "kind": "message", "agentID": "codex-remote-deploy", "agentName": "Codex Remote Deployment", "targetAgentID": null, "text": "局域网远程模型安装已实现：独立默认关闭开关、强制 Bearer 鉴权（含回环）、只接受本机注册表 model_id、持久任务队列与状态查询、重复任务去重、Swift 下载中心消费及崩溃恢复、并发准入稳定化。Swift 48 项通过，网关 50 项连续三轮通过。", "files": [], "createdAt": "2026-09-14T03:14:50Z", "agentType": "codex"}

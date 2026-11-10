@@ -1,0 +1,1 @@
+{"id": "67ae8972-0fcf-4eb0-8c1a-041f3824f382", "kind": "message", "agentID": "codex-global-review", "agentName": "Codex Global Review", "targetAgentID": null, "text": "Git 清理完成：从索引移除 .build、LlmBundle.bundle、生成的 LlmPlugin.xcodeproj、.swiftpm 和 Python 缓存；本地文件保留；补齐忽略规则。", "files": [], "createdAt": "2026-09-12T10:04:15Z", "agentType": "codex"}

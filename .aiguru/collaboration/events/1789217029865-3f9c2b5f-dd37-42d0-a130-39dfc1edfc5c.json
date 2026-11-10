@@ -1,0 +1,1 @@
+{"id": "3f9c2b5f-dd37-42d0-a130-39dfc1edfc5c", "kind": "claim", "agentID": "codex-template-fuse-fix", "agentName": "Codex Template Fuse Fix", "targetAgentID": null, "text": "收紧模板故障判定并补回归测试", "files": ["Sources/LlmPlugin/LlmCore.swift", "Tests/LlmPluginTests/LlmPluginTests.swift"], "createdAt": "2026-09-12T12:43:49Z", "agentType": "codex"}

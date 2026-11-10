@@ -1,0 +1,1 @@
+{"id": "7074704d-ad39-46f6-9062-9cff6099ee09", "kind": "release", "agentID": "codex-layout-fix", "agentName": "Codex", "targetAgentID": null, "text": "released", "files": ["Sources/LlmPlugin/LlmRootView.swift", "Tests/LlmPluginTests/LlmPluginTests.swift"], "createdAt": "2026-10-16T20:29:33Z", "agentType": "codex"}

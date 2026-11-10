@@ -1,0 +1,1 @@
+{"id": "a621a5d6-125e-4f1f-b0b0-03ca22b75baa", "kind": "message", "agentID": "codex-tool-json", "agentName": "Codex Tool JSON", "targetAgentID": null, "text": "已修复历史 tool_calls.arguments 为对象或截断 JSON 时导致 Ollama/llama.cpp 模板 HTTP 400；新增回归测试。28 Python + 44 Swift 测试通过。", "files": [], "createdAt": "2026-09-12T10:21:02Z", "agentType": "codex"}

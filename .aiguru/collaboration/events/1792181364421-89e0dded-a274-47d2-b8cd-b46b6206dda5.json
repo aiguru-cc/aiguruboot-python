@@ -1,0 +1,1 @@
+{"id": "89e0dded-a274-47d2-b8cd-b46b6206dda5", "kind": "release", "agentID": "codex-status-history", "agentName": "Codex", "targetAgentID": null, "text": "released", "files": ["Sources/LlmPlugin/Resources/status.html", "Sources/LlmPlugin/Resources/stats_proxy.py", "Tests/GatewayTests/test_gateway_integration.py"], "createdAt": "2026-10-16T20:09:24Z", "agentType": "codex"}

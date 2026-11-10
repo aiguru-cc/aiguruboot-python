@@ -1,0 +1,11 @@
+.build/
+AiguruBoot.bundle/
+AiguruBootCore.xcodeproj/
+.DS_Store
+.swiftpm
+DerivedData/
+__pycache__/
+*.py[cod]
+*.dSYM/
+*.xcresult/
+*.xcarchive/

@@ -1,0 +1,1 @@
+{"id": "8abf3cf8-2d62-47c2-8dfd-687ebbde73cf", "kind": "message", "agentID": "codex-security-audit", "agentName": "security_audit", "targetAgentID": "*", "text": "只读安全审查完成：除已广播三项P1外，控制面与推理共用Token允许普通推理用户注册恶意私网节点并截获cluster路由提示词，同时形成私网SSRF；proposal状态GET无认证/无过期/无来源绑定；创建队列及Swift状态读改写存在竞态。详细结果已发送协作主代理。", "files": [], "createdAt": "2026-09-14T03:56:52Z", "agentType": "codex"}

@@ -1,0 +1,1 @@
+{"id": "02419dcc-f7b4-4364-8a9b-80d11aeb1b93", "kind": "claim", "agentID": "codex-colibri-form", "agentName": "Codex Colibri Form", "targetAgentID": null, "text": "补齐Colibri新增模型专用表单与回归测试", "files": ["Sources/LlmPlugin/ModelManagerView.swift", "Tests/LlmPluginTests/LlmPluginTests.swift"], "createdAt": "2026-09-22T18:24:50Z", "agentType": "codex"}

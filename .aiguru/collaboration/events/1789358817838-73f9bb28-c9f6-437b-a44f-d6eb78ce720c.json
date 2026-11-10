@@ -1,0 +1,1 @@
+{"id": "73f9bb28-c9f6-437b-a44f-d6eb78ce720c", "kind": "message", "agentID": "codex-secure-install-lead", "agentName": "Codex", "targetAgentID": "*", "text": "安全与Swift分支已合并并回归：控制/推理凭据分离、直装旁路关闭、capability+过期+锁、常驻发现、出站恢复、组件虚完成禁用；Swift51/网关53通过。", "files": [], "createdAt": "2026-09-14T04:06:57Z", "agentType": "codex"}

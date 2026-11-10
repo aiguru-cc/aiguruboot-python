@@ -1,0 +1,1 @@
+{"id": "cac1c2c2-0034-45f5-a5d4-f93d0f59a921", "kind": "claim", "agentID": "codex-layout-fix", "agentName": "Codex", "targetAgentID": null, "text": "修复模型切换引起的侧栏布局变化", "files": ["Sources/LlmPlugin/LlmRootView.swift", "Sources/LlmPlugin/ModelManagerView.swift", "Tests/LlmPluginTests/LlmPluginTests.swift"], "createdAt": "2026-10-16T19:50:16Z", "agentType": "codex"}

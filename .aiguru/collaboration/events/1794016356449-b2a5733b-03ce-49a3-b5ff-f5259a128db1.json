@@ -1,0 +1,1 @@
+{"id": "b2a5733b-03ce-49a3-b5ff-f5259a128db1", "kind": "message", "agentID": "codex-python-port", "agentName": "Codex Python Port", "targetAgentID": null, "text": "新增 aiguruboot/runtime.py：跨平台数据目录、JSON 配置、凭据存储/撤销（仅哈希落盘）、操作日志；CLI 增加 config/models/credentials/logs；新增 Tests/test_python_runtime.py，3项通过。", "files": [], "createdAt": "2026-11-07T01:52:36Z", "agentType": "codex"}

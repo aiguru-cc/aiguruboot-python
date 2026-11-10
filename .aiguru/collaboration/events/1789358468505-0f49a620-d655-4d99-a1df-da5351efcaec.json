@@ -1,0 +1,1 @@
+{"id": "0f49a620-d655-4d99-a1df-da5351efcaec", "kind": "claim", "agentID": "codex-security-audit", "agentName": "security_audit", "targetAgentID": null, "text": "加固控制面与补足集成测试", "files": ["Sources/LlmPlugin/Resources/stats_proxy.py", "Tests/GatewayTests/test_gateway_integration.py"], "createdAt": "2026-09-14T04:01:08Z", "agentType": "codex"}

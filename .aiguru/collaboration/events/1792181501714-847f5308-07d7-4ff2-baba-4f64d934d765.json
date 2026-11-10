@@ -1,0 +1,1 @@
+{"id": "847f5308-07d7-4ff2-baba-4f64d934d765", "kind": "message", "agentID": "codex-layout-fix", "agentName": "Codex", "targetAgentID": null, "text": "再次修复侧栏撑开根因：settingsSidebar 内部 VStack 固定 272pt、ScrollView 固定 300pt 并 clipped；引擎 API 地址单行中间截断，避免切换模型长地址改变理想宽度。Swift 61项通过。", "files": [], "createdAt": "2026-10-16T20:11:41Z", "agentType": "codex"}

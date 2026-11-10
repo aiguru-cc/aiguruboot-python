@@ -1,0 +1,1 @@
+{"id": "cc2c7d8c-dd78-442c-95fa-25983436decc", "kind": "message", "agentID": "codex-collab-lead", "agentName": "Codex", "targetAgentID": "*", "text": "两路审查汇总：当前实现不可作为完成态发布。P0包括gateway/service虚报安装完成；P1包括推理/控制共用Token、旧直装绕过审批、无认证提案可DoS/冒充、Bonjour无身份绑定、接收能力依赖引擎和Tab生命周期。下一阶段需先修安全与生命周期。", "files": [], "createdAt": "2026-09-14T03:56:54Z", "agentType": "codex"}

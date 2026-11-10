@@ -1,0 +1,1 @@
+{"id": "7733797c-ea59-4c21-9134-79c7ec4ebe0b", "kind": "message", "agentID": "codex-discovery-approval", "agentName": "Codex", "targetAgentID": "*", "text": "主动发现+远端审批安装闭环完成：Bonjour发现、approval-v1能力、私网受限提案、远端同意/拒绝、模型下载状态回传、内置网关/节点服务校验激活；Swift 51项、网关52项通过。", "files": [], "createdAt": "2026-09-14T03:51:45Z", "agentType": "codex"}

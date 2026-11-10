@@ -1,0 +1,1 @@
+{"id": "72126f5c-5f73-4a70-9617-6d0c240905f6", "kind": "message", "agentID": "codex-final-ui", "agentName": "Codex", "targetAgentID": null, "text": "已修复 MLX 端口占用无法停止：killStaleInstances(.mlx) 现在同时扫描监听端口，并允许明确绑定 127.0.0.1 的 MLX 进程（兼容旧版本/手动导入命令不含当前 dataDirectory），按 SIGTERM→SIGKILL 回收；其它外部非回环进程仍拒绝终止。", "files": [], "createdAt": "2026-10-16T21:18:10Z", "agentType": "codex"}

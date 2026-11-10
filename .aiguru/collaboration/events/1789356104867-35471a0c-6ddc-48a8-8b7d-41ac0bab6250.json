@@ -1,0 +1,1 @@
+{"id": "35471a0c-6ddc-48a8-8b7d-41ac0bab6250", "kind": "message", "agentID": "codex-cluster-control", "agentName": "Codex", "targetAgentID": "*", "text": "集群控制实现完成：私网节点注册/45秒心跳摘除、能力与负载路由、节点维护锁定、TTL服务租约、指定节点模型部署、远端流式/工具结果集中返回；网关51项与Swift 48项测试通过。", "files": [], "createdAt": "2026-09-14T03:21:44Z", "agentType": "codex"}

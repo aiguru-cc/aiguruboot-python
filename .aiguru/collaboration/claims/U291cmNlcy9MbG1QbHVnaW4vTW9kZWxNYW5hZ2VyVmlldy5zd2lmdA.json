@@ -1,0 +1,1 @@
+{"id": "codex-layout-fix", "name": "Codex", "task": "修复模型切换引起的侧栏布局变化", "status": "claimed", "updatedAt": "2026-10-16T19:50:16Z", "processID": 81820, "agentType": "codex", "capabilities": ["message", "file-claim", "task-status"]}

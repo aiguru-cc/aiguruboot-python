@@ -1,0 +1,1 @@
+{"id": "0a658a35-223b-4f44-969b-0bfc4dc8846f", "kind": "release", "agentID": "codex-security-audit", "agentName": "security_audit", "targetAgentID": null, "text": "released", "files": ["Sources/LlmPlugin/Resources/stats_proxy.py", "Tests/GatewayTests/test_gateway_integration.py"], "createdAt": "2026-09-14T04:04:17Z", "agentType": "codex"}

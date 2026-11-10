@@ -1,0 +1,1 @@
+{"id": "68afe0b0-0e5f-44bf-b02a-22dd7c40322c", "kind": "release", "agentID": "codex-truncation", "agentName": "Codex Truncation Fix", "targetAgentID": null, "text": "released", "files": ["Sources/LlmPlugin/Resources/stats_proxy.py"], "createdAt": "2026-09-12T15:01:33Z", "agentType": "codex"}

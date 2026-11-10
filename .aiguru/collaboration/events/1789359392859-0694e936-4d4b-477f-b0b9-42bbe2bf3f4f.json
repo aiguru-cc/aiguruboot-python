@@ -1,0 +1,1 @@
+{"id": "0694e936-4d4b-477f-b0b9-42bbe2bf3f4f", "kind": "claim", "agentID": "codex-security-audit", "agentName": "security_audit", "targetAgentID": null, "text": "新增最小权限安装审批服务及测试", "files": ["Sources/LlmPlugin/Resources/installer_agent.py", "Tests/GatewayTests/test_installer_agent.py"], "createdAt": "2026-09-14T04:16:32Z", "agentType": "codex"}

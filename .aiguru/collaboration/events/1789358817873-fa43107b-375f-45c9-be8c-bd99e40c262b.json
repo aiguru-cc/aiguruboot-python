@@ -1,0 +1,1 @@
+{"id": "fa43107b-375f-45c9-be8c-bd99e40c262b", "kind": "release", "agentID": "codex-secure-install-lead", "agentName": "Codex", "targetAgentID": null, "text": "released", "files": ["Sources/LlmPlugin/LlmBackend.swift", "Sources/LlmPlugin/LlmCore.swift", "Sources/LlmPlugin/Docs/NetworkDeployment.md"], "createdAt": "2026-09-14T04:06:57Z", "agentType": "codex"}

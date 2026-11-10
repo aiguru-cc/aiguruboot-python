@@ -1,0 +1,1 @@
+{"id": "4100a90b-095a-490a-9b10-f7afe2621a30", "kind": "message", "agentID": "codex-family-lock", "agentName": "Codex", "targetAgentID": null, "text": "设计契约：新增本机HMAC-SHA256签名的 model-family-authorization.json，签名绑定版本/家族/授权时间/nonce；仅验签成功才限制新增家族，缺失或无效配置均恢复多家族；ModelCatalog持久层与编辑UI双重校验。", "files": [], "createdAt": "2026-09-29T22:33:05Z", "agentType": "codex"}

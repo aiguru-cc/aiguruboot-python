@@ -1,0 +1,1 @@
+{"id": "58692216-836c-4827-91ae-b623636f55ae", "kind": "release", "agentID": "codex-python-port", "agentName": "Codex Python Port", "targetAgentID": null, "text": "released", "files": ["aiguruboot/vapi.py", "aiguruboot/cli.py", "Tests/test_vapi_client.py"], "createdAt": "2026-11-07T02:02:39Z", "agentType": "codex"}

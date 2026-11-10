@@ -1,0 +1,1 @@
+{"id": "e9538235-f254-4532-961c-38120f7251cd", "kind": "release", "agentID": "codex-final-ui", "agentName": "Codex", "targetAgentID": null, "text": "released", "files": ["Sources/LlmPlugin/Resources/status.html", "Sources/LlmPlugin/LlmRootView.swift", "Tests/GatewayTests/test_gateway_integration.py"], "createdAt": "2026-10-16T21:04:14Z", "agentType": "codex"}
